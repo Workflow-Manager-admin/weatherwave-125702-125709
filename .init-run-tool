@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/tmp/kavia/workspace/code-generation/weatherwave-125702-125709/main_container_for_weatherwave"
+}
